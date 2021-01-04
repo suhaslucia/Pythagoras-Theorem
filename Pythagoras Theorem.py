@@ -16,7 +16,7 @@ if hypotenuse == 0:
     result = sqrt(hyp)
     print(f'\n Hypotenuse of Triangle is {result}')
     
- # Calculating the Perpendicular value and printing it
+# Calculating the Perpendicular value and printing it
 elif perpendicular == 0:
     b = base ** 2
     hyp = hypotenuse ** 2
@@ -24,7 +24,7 @@ elif perpendicular == 0:
     result = sqrt(p)
     print(f'\n Perpendicular of Triangle is {result}')
     
-  # Calculating the Base value and printing it
+# Calculating the Base value and printing it
 else:
     p = perpendicular ** 2
     hyp = hypotenuse ** 2
